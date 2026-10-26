@@ -170,9 +170,6 @@ gold-price-forecasting/
 ├── Run_All.py
 ├── requirements.txt
 ├── README.md
-│
-└── presentation/
-    └── clean_gold_daily.csv
 ```
 
 ## Run the Project Locally
